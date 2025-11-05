@@ -9,8 +9,6 @@ function App() {
 
 
 
-  // have added the inittal comit 
-
   const handleChnage = (e:any)=>{
   setLink(e.target.value)
   }
